@@ -28,3 +28,9 @@ Link
 >Exemplo de Blockquote.
 >
 >Segunda linha.
+
+### **Texto de código**
+
+```bash
+npm start
+```
