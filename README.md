@@ -11,3 +11,16 @@ Texto em **Negrito**, em _Itálico_, _**Negrito e Itálico**_
 [Instagram](https://instagram.com/user)
 
 Link
+
+## UL Lista
+
+* Linha 1
+* Linha 2
+* Linha 3
+
+## OL Lista
+
+1. Linha 1
+    1. Sub Item
+2. Linha 2
+3. Linha 3
