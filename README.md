@@ -39,3 +39,9 @@ Link
 ```bash
 npm start
 ```
+Propriedade | Descrição
+----------- | ----------
+name | Informa o nome do usuário
+size | Definir tamanho do campo
+bgcolor | Cor de fundo (hex)
+onPress | Função ao clicar
